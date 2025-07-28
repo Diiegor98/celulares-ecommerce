@@ -102,7 +102,17 @@ export const FormCheckout = () => {
 						className='border border-slate-200 rounded-md p-3'
 						{...register('country')}
 					>
+						<option value='Argentina'>Argentina</option>
+						<option value='Brasil'>Brasil</option>
+						<option value='Uruguay'>Uruguay</option>
+						<option value='Chile'>Chile</option>
+						<option value='Paraguay'>Paraguay</option>
+						<option value='Bolivia'>Bolivia</option>
+						<option value='Peru'>Peru</option>
+						<option value='Colombia'>Colombia</option>
+						<option value='Venezuela'>Venezuela</option>
 						<option value='Ecuador'>Ecuador</option>
+						
 					</select>
 				</div>
 
