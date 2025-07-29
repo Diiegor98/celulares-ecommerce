@@ -1,4 +1,4 @@
-#Proyecto Ecommerce de celulares 
+# Proyecto Ecommerce de celulares 
 
 ## 🚀 Tecnologías utilizadas
 
@@ -11,20 +11,20 @@
 - [Tailwind](https://tailwindcss.com/) – Framework de estilos utilitario para diseño responsive
 - [Zustand](https://zustand-demo.pmnd.rs/) – Librería de manejo de estado global simple y eficiente
 
-##🌐 Navegación
+## 🌐 Navegación
 La aplicación utiliza React Router DOM para manejar la navegación entre páginas de forma dinámica y fluida.
 
-##🎨 Estilos
+## 🎨 Estilos
 El diseño está desarrollado con Tailwind CSS, lo que asegura una experiencia responsive y visualmente consistente en todos los dispositivos.
 
-##⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 Zustand se encarga del manejo del estado global (carrito, sesión, etc.).
 
 React Hook Form + Zod se usan para la gestión y validación de formularios de forma eficiente.
 
 TypeScript aporta mayor seguridad en el desarrollo gracias al tipado estático.
 
-##📡 Backend
+## 📡 Backend
 Este cliente se conecta a una base de datos y servicios provistos por Supabase, que gestiona autenticación, almacenamiento y operaciones en tiempo real.
 
 ## 🚀 Deploy
